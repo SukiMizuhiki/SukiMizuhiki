@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sealninja11
 - 👀 I’m interested in Developing for AI, Software, and backend.
 - 🌱 I’m currently learning webphp, Ruby, and Python
-- 💞️ I’m looking to collaborate on Anything that oeak my interest. 
+- 💞️ I’m looking to collaborate on Anything that peaks my interest. 
 - 📫 How to reach me, You can reach me on discord at Mizuhiki#3531
 
 <!---
